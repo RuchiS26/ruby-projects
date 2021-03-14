@@ -11,7 +11,7 @@ This repository holds different Projects carried out under the course of Web App
 rails s
 ```
 ---
-**NOTE** - Restart Rails Server
+**NOTE - Restart Rails Server**
 1. In development mode you need to restart the rails server if:
 ```
 1. You add/remove/update gems in your Gemfile.
