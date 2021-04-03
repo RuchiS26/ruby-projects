@@ -23,3 +23,4 @@ rails s
 ```
 1. You change any code or gems.
 ```
+3. If you have installed different versions of ruby in your environment, you can specify the version in .ruby-version file in root directory of the project.
